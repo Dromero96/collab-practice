@@ -16,6 +16,7 @@
   }
   .missing p {
     font-size: 25px;
+    
   }
   @media (min-width: 992px) {
     .missing p {
